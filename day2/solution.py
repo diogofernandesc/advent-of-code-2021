@@ -40,6 +40,7 @@ def part2():
 
     return horizontal * depth
 
+
 if __name__ == '__main__':
     print(part1())
     print(part2())
